@@ -1,7 +1,7 @@
-<!-- src/views/About.vue -->
+<!-- src/views/Betting.vue -->
 <template>
   <div>
-    <h1>About</h1>
+    <h1>Panustamine</h1>
     <ul>
       <li v-for="example in examples" :key="example.id">
         {{ example.name }}

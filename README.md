@@ -1,6 +1,6 @@
-## Newspaper
+## Päevapanus
 
-Newspaper is a simple express app that allows you to create a simple blog.
+Päevapanus is a simple express app that allows you to bet on various polls.
 
 ### Installation
 

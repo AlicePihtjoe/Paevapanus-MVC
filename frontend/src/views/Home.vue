@@ -1,6 +1,6 @@
 <!-- src/views/Home.vue -->
 <template>
   <div>
-    <h1>Home</h1>
+    <h1>Avaleht</h1>
   </div>
 </template>

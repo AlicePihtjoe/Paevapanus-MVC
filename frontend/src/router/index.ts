@@ -4,7 +4,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 // @ts-ignore
 import Home from '../views/Home.vue';
 // @ts-ignore
-import About from '../views/About.vue';
+import Betting from "../views/Betting.vue";
 
 const routes = [
     {
@@ -13,9 +13,9 @@ const routes = [
         component: Home,
     },
     {
-        path: '/about',
-        name: 'About',
-        component: About,
+        path: '/panustamine',
+        name: 'Betting',
+        component: Betting,
     },
 ];
 
